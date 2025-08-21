@@ -14,7 +14,7 @@
   },
   "arguments": {
     "execute": {
-      "url": "https://exemple/api/execute",
+      "url": "https://sfsysmiddle.opty.com.br",
       "verb": "POST",
       "format": "json",
       "inArguments": [],
@@ -24,22 +24,22 @@
   "configurationArguments": {
     "applicationExtensionKey": "exemple",
     "save": {
-      "url": "https://exemple/api/save",
+      "url": "https://sfsysmiddle.opty.com.br/api/save",
       "verb": "POST",
       "useJwt": true
     },
     "publish": {
-      "url": "https://exemple/api/publish",
+      "url": "https://sfsysmiddle.opty.com.br/api/publish",
       "verb": "POST",
       "useJwt": true
     },
     "stop": {
-      "url": "https://exemple/api/stop",
+      "url": "https://sfsysmiddle.opty.com.br/api/stop",
       "verb": "POST",
       "useJwt": true
     },
     "validate": {
-      "url": "https://exemple/api/validate",
+      "url": "https://sfsysmiddle.opty.com.br/api/validate",
       "verb": "POST",
       "useJwt": true
     }
